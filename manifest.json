@@ -1,0 +1,11 @@
+{
+  "name": "zip-crack",
+  "version": "1.0.1",
+  "author": "Dragon-Black",
+  "description": "ataque de fuerza bruta a archivos con el foformato zip",
+  "source": "https://github.com/equipodragonblack-tech/Zip-Crack",
+  "git_url": "https://github.com/equipodragonblack-tech/Zip-Crack",
+  "main": "plugin.py",
+  "command": "zipcrack",
+  "default_function": "main"
+}
