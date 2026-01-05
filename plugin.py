@@ -193,6 +193,7 @@ def create_sample_zip():
     return zip_name, dictionary
 
 def zip_crack():
+    print("\nversion 1.0.1")
     """
     Main function to run the ZIP cracker
     """
